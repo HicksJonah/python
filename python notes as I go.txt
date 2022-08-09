@@ -1,0 +1,1 @@
+Anything in quotes is a string. 
