@@ -38,3 +38,9 @@ elif age_1 < 18:
     print("Your admission cost is $5.")
 else:
     print("Your admission cost is $10.")
+
+
+requested_toppings = ['mushrooms', 'green peppers', 'extra cheese']
+for requested_topping in requested_toppings:
+    print("Adding " + requested_topping + ".")
+print("\nFinished makeing your pizza!")
